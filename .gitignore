@@ -57,6 +57,6 @@ atlassian*
 /var
 
 /vendor/
-
+/generated/
 /.github/
 /.gitignore.swp
